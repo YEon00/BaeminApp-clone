@@ -1,5 +1,9 @@
-# Spring Boot Template
-본 템플릿은 소프트스퀘어드 서버 교육용 Spring Boot 템플릿 입니다. (2021 ver.)
+# SoftSquared - Server
+
+- user,order,review,store CRUD 구현
+- KAKAO, NAVER 소셜로그인 구현
+- JWT 토큰 인증
+
 
 ## ✨Common
 ### REST API
