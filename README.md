@@ -1,8 +1,12 @@
-# SoftSquared - Server
-
-- user,order,review,store CRUD 구현
-- KAKAO, NAVER 소셜로그인 구현
-- JWT 토큰 인증
+## SoftSquared - Server
+'''
++ AWS Cloud[EC2(ubuntu), RDS(mysql)]
++ domain dev,prod 구별 적용
++ HTTPS 적용
++ user,order,review,store CRUD 구현
++ KAKAO, NAVER 소셜로그인 구현
++ JWT 토큰 인증
+'''
 
 
 ## ✨Common
