@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig host="54.180.88.17" id="c37edf29-3200-4b08-9478-d72d8580c787" keyPath="$USER_HOME$/.ssh/ec2.pem" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
-    </configs>
-  </component>
-</project>
